@@ -1,0 +1,25 @@
+{
+  "shoaib524": {
+    "name": "shoaib",
+    "deposit": 16980.0,
+    "pin_code": "1900",
+    "id": 1875031498,
+    "username": "shoaib524",
+    "status": "ACTIVE",
+    "currency": "PKR",
+    "statement": [
+      {
+        "transaction": "Deposit",
+        "amount": 9000.0
+      },
+      {
+        "transaction": "Deposit",
+        "amount": 10000.0
+      },
+      {
+        "transaction": "Withdrawal",
+        "amount": -2020.0
+      }
+    ]
+  }
+}

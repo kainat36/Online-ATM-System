@@ -1,0 +1,3 @@
+Transaction: Deposit, Amount: 9000.0 PKR
+Transaction: Deposit, Amount: 10000.0 PKR
+Transaction: Withdrawal, Amount: -2020.0 PKR
